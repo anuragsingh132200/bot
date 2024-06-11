@@ -1,18 +1,39 @@
-2024/06/12-01:52:17.757 6e18 Reusing MANIFEST C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/12-01:52:17.759 6e18 Recovering log #333
-2024/06/12-01:52:18.019 6e18 Reusing old log C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000333.log 
-2024/06/12-01:52:24.558 6184 Level-0 table #346: started
-2024/06/12-01:52:24.832 6184 Level-0 table #346: 950984 bytes OK
-2024/06/12-01:52:24.834 6184 Delete type=0 #333
-2024/06/12-01:52:24.837 6184 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/06/12-01:52:29.604 6e18 Compacting 1@1 + 11@2 files
-2024/06/12-01:52:30.247 6e18 Generated table #347@1: 47108 keys, 2203706 bytes
-2024/06/12-01:52:30.523 6e18 Generated table #348@1: 46695 keys, 2222775 bytes
-2024/06/12-01:52:30.615 6e18 Generated table #349@1: 1242 keys, 2142222 bytes
-2024/06/12-01:52:30.878 6e18 Generated table #350@1: 23003 keys, 2213006 bytes
-2024/06/12-01:52:31.135 6e18 Generated table #351@1: 18479 keys, 2161352 bytes
-2024/06/12-01:52:31.409 6e18 Generated table #352@1: 79610 keys, 2222821 bytes
-2024/06/12-01:52:31.669 6e18 Generated table #353@1: 106575 keys, 2259069 bytes
-2024/06/12-01:52:31.821 6e18 Generated table #354@1: 39699 keys, 842805 bytes
-2024/06/12-01:52:31.822 6e18 Compacted 1@1 + 11@2 files => 16267756 bytes
-2024/06/12-01:52:31.824 6e18 compacted to: files[ 0 0 8 0 0 0 0 ]
+2024/06/12-01:58:03.392 4334 Reusing MANIFEST C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/12-01:58:03.394 4334 Recovering log #345
+2024/06/12-01:58:03.418 4334 Reusing old log C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000345.log 
+2024/06/12-01:58:03.422 4334 Delete type=2 #245
+2024/06/12-01:58:03.422 4334 Delete type=2 #246
+2024/06/12-01:58:03.422 4334 Delete type=2 #249
+2024/06/12-01:58:03.424 4334 Delete type=2 #256
+2024/06/12-01:58:03.424 4334 Delete type=2 #269
+2024/06/12-01:58:03.425 4334 Delete type=2 #281
+2024/06/12-01:58:03.428 4334 Delete type=2 #339
+2024/06/12-01:58:03.428 4334 Delete type=2 #340
+2024/06/12-01:58:03.442 4334 Delete type=2 #341
+2024/06/12-01:58:03.448 4334 Delete type=2 #342
+2024/06/12-01:58:03.448 4334 Delete type=2 #343
+2024/06/12-01:58:03.448 4334 Delete type=2 #346
+2024/06/12-01:58:06.109 36dc Level-0 table #357: started
+2024/06/12-01:58:06.271 36dc Level-0 table #357: 171635 bytes OK
+2024/06/12-01:58:06.274 36dc Delete type=0 #345
+2024/06/12-01:58:06.276 6094 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/12-01:58:09.966 6094 Compacting 1@1 + 8@2 files
+2024/06/12-01:58:10.206 6094 Generated table #358@1: 46790 keys, 2204009 bytes
+2024/06/12-01:58:10.458 6094 Generated table #359@1: 48812 keys, 2213072 bytes
+2024/06/12-01:58:10.670 6094 Generated table #360@1: 1252 keys, 2146570 bytes
+2024/06/12-01:58:10.855 6094 Generated table #361@1: 21108 keys, 2209616 bytes
+2024/06/12-01:58:11.002 6094 Generated table #362@1: 20362 keys, 2165243 bytes
+2024/06/12-01:58:11.195 6094 Generated table #363@1: 76511 keys, 2219397 bytes
+2024/06/12-01:58:11.479 6094 Generated table #364@1: 106710 keys, 2259982 bytes
+2024/06/12-01:58:11.585 6094 Generated table #365@1: 42698 keys, 905910 bytes
+2024/06/12-01:58:11.586 6094 Compacted 1@1 + 8@2 files => 16323799 bytes
+2024/06/12-01:58:11.587 6094 compacted to: files[ 0 0 8 0 0 0 0 ]
+2024/06/12-01:58:11.588 6094 Delete type=2 #347
+2024/06/12-01:58:11.589 6094 Delete type=2 #348
+2024/06/12-01:58:11.589 6094 Delete type=2 #349
+2024/06/12-01:58:11.589 6094 Delete type=2 #350
+2024/06/12-01:58:11.589 6094 Delete type=2 #351
+2024/06/12-01:58:11.590 6094 Delete type=2 #352
+2024/06/12-01:58:11.590 6094 Delete type=2 #353
+2024/06/12-01:58:11.590 6094 Delete type=2 #354
+2024/06/12-01:58:11.590 6094 Delete type=2 #357
