@@ -1,8 +1,9 @@
 const venom = require("venom-bot");
 const searchMedicine = require("./scrappers/netmeds");
-const http = require("http");
+const express = require("express");
+const app = express();
 
-const server = http.createServer((req, res) => {
+app.get("/", (req, res) => {
   venom
     .create({
       session: "session-name", //name of session
@@ -41,13 +42,8 @@ const server = http.createServer((req, res) => {
       }
     });
   }
-
-  res.statusCode = 200;
-  res.setHeader("Content-Type", "text/plain");
-  res.end("Hello, World!");
+  res.send("hello");
 });
-
-const port = 3000;
-server.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}/`);
+app.listen(3000, () => {
+  console.log("server started at http://localhost:3000");
 });

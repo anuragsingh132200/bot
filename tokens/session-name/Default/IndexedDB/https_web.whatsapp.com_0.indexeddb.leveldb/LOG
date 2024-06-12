@@ -1,3 +1,27 @@
-2024/06/12-06:20:52.729 6230 Reusing MANIFEST C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/12-06:20:52.730 6230 Recovering log #448
-2024/06/12-06:20:52.737 6230 Reusing old log C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000448.log 
+2024/06/12-06:31:16.958 3d60 Reusing MANIFEST C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/12-06:31:16.959 3d60 Recovering log #448
+2024/06/12-06:31:16.971 3d60 Reusing old log C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000448.log 
+2024/06/12-06:31:22.058 5be0 Level-0 table #460: started
+2024/06/12-06:31:22.074 5be0 Level-0 table #460: 143113 bytes OK
+2024/06/12-06:31:22.077 5be0 Delete type=0 #448
+2024/06/12-06:31:22.079 5be0 Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/12-06:31:24.669 5be0 Compacting 1@1 + 8@2 files
+2024/06/12-06:31:24.861 5be0 Generated table #461@1: 50773 keys, 2204831 bytes
+2024/06/12-06:31:25.090 5be0 Generated table #462@1: 58573 keys, 2227869 bytes
+2024/06/12-06:31:25.154 5be0 Generated table #463@1: 6516 keys, 2147873 bytes
+2024/06/12-06:31:25.273 5be0 Generated table #464@1: 11118 keys, 2195653 bytes
+2024/06/12-06:31:25.464 5be0 Generated table #465@1: 33329 keys, 2194673 bytes
+2024/06/12-06:31:25.567 5be0 Generated table #466@1: 35294 keys, 2163662 bytes
+2024/06/12-06:31:25.725 5be0 Generated table #467@1: 106675 keys, 2259733 bytes
+2024/06/12-06:31:25.861 5be0 Generated table #468@1: 82638 keys, 1748267 bytes
+2024/06/12-06:31:25.861 5be0 Compacted 1@1 + 8@2 files => 17142561 bytes
+2024/06/12-06:31:25.863 5be0 compacted to: files[ 0 0 8 0 0 0 0 ]
+2024/06/12-06:31:25.864 5be0 Delete type=2 #450
+2024/06/12-06:31:25.864 5be0 Delete type=2 #451
+2024/06/12-06:31:25.864 5be0 Delete type=2 #452
+2024/06/12-06:31:25.864 5be0 Delete type=2 #453
+2024/06/12-06:31:25.865 5be0 Delete type=2 #454
+2024/06/12-06:31:25.865 5be0 Delete type=2 #455
+2024/06/12-06:31:25.865 5be0 Delete type=2 #456
+2024/06/12-06:31:25.865 5be0 Delete type=2 #457
+2024/06/12-06:31:25.865 5be0 Delete type=2 #460

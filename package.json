@@ -4,12 +4,13 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "start":"node ."
+    "start": "node ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.19.2",
     "puppeteer": "^22.10.0",
     "venom-bot": "^5.1.0"
   }
