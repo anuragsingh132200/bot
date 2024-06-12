@@ -1,6 +1,8 @@
 const venom = require("venom-bot");
 const searchMedicine = require("./scrappers/netmeds");
 
+
+
 venom
   .create({
     session: "session-name", //name of session
@@ -14,7 +16,7 @@ function start(client) {
   client.onMessage((message) => {
     if (message.body === "Hi" && message.isGroupMsg === false) {
       client
-        .sendText(message.from, "Welcome Venom 🕷")
+        .sendText(message.from, "Welcome to Medicare")
         .then((result) => {
           console.log("Result: ", result); //return object success
         })
@@ -25,7 +27,7 @@ function start(client) {
       searchMedicine(message.body)
         .then((result) => {
           console.log(result);
-          const responseMessage = `${result.productName} ₹${result.productPrice} ${result.productLink} ${result.siteName}`;
+          const responseMessage = `This is the medicine name ${result.productName}, at price ₹${result.productPrice}, at link ${result.productLink},on ${result.siteName} brand`;
           client.sendText(message.from, responseMessage)
             .then((result) => {
               console.log("Result: ", result); //return object success

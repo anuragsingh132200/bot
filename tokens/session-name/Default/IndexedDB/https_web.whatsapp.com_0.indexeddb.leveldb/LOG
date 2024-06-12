@@ -1,39 +1,32 @@
-2024/06/12-01:58:03.392 4334 Reusing MANIFEST C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/12-01:58:03.394 4334 Recovering log #345
-2024/06/12-01:58:03.418 4334 Reusing old log C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000345.log 
-2024/06/12-01:58:03.422 4334 Delete type=2 #245
-2024/06/12-01:58:03.422 4334 Delete type=2 #246
-2024/06/12-01:58:03.422 4334 Delete type=2 #249
-2024/06/12-01:58:03.424 4334 Delete type=2 #256
-2024/06/12-01:58:03.424 4334 Delete type=2 #269
-2024/06/12-01:58:03.425 4334 Delete type=2 #281
-2024/06/12-01:58:03.428 4334 Delete type=2 #339
-2024/06/12-01:58:03.428 4334 Delete type=2 #340
-2024/06/12-01:58:03.442 4334 Delete type=2 #341
-2024/06/12-01:58:03.448 4334 Delete type=2 #342
-2024/06/12-01:58:03.448 4334 Delete type=2 #343
-2024/06/12-01:58:03.448 4334 Delete type=2 #346
-2024/06/12-01:58:06.109 36dc Level-0 table #357: started
-2024/06/12-01:58:06.271 36dc Level-0 table #357: 171635 bytes OK
-2024/06/12-01:58:06.274 36dc Delete type=0 #345
-2024/06/12-01:58:06.276 6094 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/06/12-01:58:09.966 6094 Compacting 1@1 + 8@2 files
-2024/06/12-01:58:10.206 6094 Generated table #358@1: 46790 keys, 2204009 bytes
-2024/06/12-01:58:10.458 6094 Generated table #359@1: 48812 keys, 2213072 bytes
-2024/06/12-01:58:10.670 6094 Generated table #360@1: 1252 keys, 2146570 bytes
-2024/06/12-01:58:10.855 6094 Generated table #361@1: 21108 keys, 2209616 bytes
-2024/06/12-01:58:11.002 6094 Generated table #362@1: 20362 keys, 2165243 bytes
-2024/06/12-01:58:11.195 6094 Generated table #363@1: 76511 keys, 2219397 bytes
-2024/06/12-01:58:11.479 6094 Generated table #364@1: 106710 keys, 2259982 bytes
-2024/06/12-01:58:11.585 6094 Generated table #365@1: 42698 keys, 905910 bytes
-2024/06/12-01:58:11.586 6094 Compacted 1@1 + 8@2 files => 16323799 bytes
-2024/06/12-01:58:11.587 6094 compacted to: files[ 0 0 8 0 0 0 0 ]
-2024/06/12-01:58:11.588 6094 Delete type=2 #347
-2024/06/12-01:58:11.589 6094 Delete type=2 #348
-2024/06/12-01:58:11.589 6094 Delete type=2 #349
-2024/06/12-01:58:11.589 6094 Delete type=2 #350
-2024/06/12-01:58:11.589 6094 Delete type=2 #351
-2024/06/12-01:58:11.590 6094 Delete type=2 #352
-2024/06/12-01:58:11.590 6094 Delete type=2 #353
-2024/06/12-01:58:11.590 6094 Delete type=2 #354
-2024/06/12-01:58:11.590 6094 Delete type=2 #357
+2024/06/12-06:01:48.667 59bc Reusing MANIFEST C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/12-06:01:48.668 59bc Recovering log #425
+2024/06/12-06:01:48.713 59bc Reusing old log C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000425.log 
+2024/06/12-06:01:54.008 57c8 Level-0 table #438: started
+2024/06/12-06:01:54.040 57c8 Level-0 table #438: 373569 bytes OK
+2024/06/12-06:01:54.043 57c8 Delete type=0 #425
+2024/06/12-06:01:54.045 59bc Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/12-06:01:56.178 29ec Compacting 1@1 + 13@2 files
+2024/06/12-06:01:56.362 29ec Generated table #439@1: 49665 keys, 2203490 bytes
+2024/06/12-06:01:56.520 29ec Generated table #440@1: 59074 keys, 2229215 bytes
+2024/06/12-06:01:56.563 29ec Generated table #441@1: 5341 keys, 2152873 bytes
+2024/06/12-06:01:56.637 29ec Generated table #442@1: 11747 keys, 2201722 bytes
+2024/06/12-06:01:56.727 29ec Generated table #443@1: 32649 keys, 2188150 bytes
+2024/06/12-06:01:56.811 29ec Generated table #444@1: 38530 keys, 2168985 bytes
+2024/06/12-06:01:56.980 29ec Generated table #445@1: 106576 keys, 2258726 bytes
+2024/06/12-06:01:57.070 29ec Generated table #446@1: 79297 keys, 1678246 bytes
+2024/06/12-06:01:57.070 29ec Compacted 1@1 + 13@2 files => 17081407 bytes
+2024/06/12-06:01:57.071 29ec compacted to: files[ 0 0 8 0 0 0 0 ]
+2024/06/12-06:01:57.072 29ec Delete type=2 #337
+2024/06/12-06:01:57.072 29ec Delete type=2 #338
+2024/06/12-06:01:57.073 29ec Delete type=2 #339
+2024/06/12-06:01:57.073 29ec Delete type=2 #349
+2024/06/12-06:01:57.073 29ec Delete type=2 #355
+2024/06/12-06:01:57.073 29ec Delete type=2 #377
+2024/06/12-06:01:57.073 29ec Delete type=2 #415
+2024/06/12-06:01:57.073 29ec Delete type=2 #430
+2024/06/12-06:01:57.073 29ec Delete type=2 #431
+2024/06/12-06:01:57.073 29ec Delete type=2 #432
+2024/06/12-06:01:57.073 29ec Delete type=2 #433
+2024/06/12-06:01:57.073 29ec Delete type=2 #434
+2024/06/12-06:01:57.073 29ec Delete type=2 #435
+2024/06/12-06:01:57.073 29ec Delete type=2 #438
