@@ -4,14 +4,13 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^22.10.0",
-    "sharp": "^0.33.4",
     "venom-bot": "^5.1.0"
   }
 }
