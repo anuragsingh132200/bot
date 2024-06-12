@@ -1,27 +1,3 @@
-2024/06/12-06:43:28.899 5354 Reusing MANIFEST C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/12-06:43:28.901 5354 Recovering log #459
-2024/06/12-06:43:28.915 5354 Reusing old log C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000459.log 
-2024/06/12-06:43:32.565 621c Level-0 table #471: started
-2024/06/12-06:43:32.575 621c Level-0 table #471: 136890 bytes OK
-2024/06/12-06:43:32.578 621c Delete type=0 #459
-2024/06/12-06:43:32.579 621c Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/06/12-06:43:34.632 5ee8 Compacting 1@1 + 8@2 files
-2024/06/12-06:43:34.910 5ee8 Generated table #472@1: 51081 keys, 2205085 bytes
-2024/06/12-06:43:35.158 5ee8 Generated table #473@1: 58315 keys, 2227147 bytes
-2024/06/12-06:43:35.211 5ee8 Generated table #474@1: 7127 keys, 2151617 bytes
-2024/06/12-06:43:35.299 5ee8 Generated table #475@1: 10862 keys, 2193998 bytes
-2024/06/12-06:43:35.429 5ee8 Generated table #476@1: 33588 keys, 2194802 bytes
-2024/06/12-06:43:35.609 5ee8 Generated table #477@1: 34081 keys, 2163641 bytes
-2024/06/12-06:43:35.786 5ee8 Generated table #478@1: 106626 keys, 2259457 bytes
-2024/06/12-06:43:35.901 5ee8 Generated table #479@1: 83914 keys, 1776092 bytes
-2024/06/12-06:43:35.901 5ee8 Compacted 1@1 + 8@2 files => 17171839 bytes
-2024/06/12-06:43:35.902 5ee8 compacted to: files[ 0 0 8 0 0 0 0 ]
-2024/06/12-06:43:35.903 5ee8 Delete type=2 #461
-2024/06/12-06:43:35.904 5ee8 Delete type=2 #462
-2024/06/12-06:43:35.904 5ee8 Delete type=2 #463
-2024/06/12-06:43:35.904 5ee8 Delete type=2 #464
-2024/06/12-06:43:35.904 5ee8 Delete type=2 #465
-2024/06/12-06:43:35.904 5ee8 Delete type=2 #466
-2024/06/12-06:43:35.904 5ee8 Delete type=2 #467
-2024/06/12-06:43:35.904 5ee8 Delete type=2 #468
-2024/06/12-06:43:35.904 5ee8 Delete type=2 #471
+2024/06/12-18:29:51.306 38c4 Reusing MANIFEST C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/12-18:29:51.313 38c4 Recovering log #470
+2024/06/12-18:29:51.330 38c4 Reusing old log C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000470.log 
