@@ -1,7 +1,10 @@
-const {launch}=require("puppeteer")
+const puppeteer = require("puppeteer");
 
 async function searchMedicine(medicineName) {
-  const browser = await launch({ headless: true });
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ['--no-sandbox', '--disable-setuid-sandbox']
+  });
   const page = await browser.newPage();
 
   const formattedMedicineName = medicineName.split(" ").join("%20");
