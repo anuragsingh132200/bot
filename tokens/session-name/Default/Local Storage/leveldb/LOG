@@ -1,0 +1,6 @@
+2024/06/13-08:23:03.495 1840 Creating DB C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\Local Storage\leveldb since it was missing.
+2024/06/13-08:23:03.524 1840 Reusing MANIFEST C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/13-08:23:03.526 1840 Recovering log #3
+2024/06/13-08:23:03.526 1840 Level-0 table #3: started
+2024/06/13-08:23:03.530 1840 Level-0 table #3: 15705 bytes OK
+2024/06/13-08:23:03.535 1840 Delete type=0 #3

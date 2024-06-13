@@ -1,3 +1,4 @@
-2024/06/13-08:04:10.783 6314 Reusing MANIFEST C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\Session Storage/MANIFEST-000001
-2024/06/13-08:04:10.785 6314 Recovering log #3
-2024/06/13-08:04:10.787 6314 Reusing old log C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\Session Storage/000003.log 
+2024/06/13-08:23:04.350 1840 Creating DB C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\Session Storage since it was missing.
+2024/06/13-08:23:04.365 1840 Reusing MANIFEST C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\Session Storage/MANIFEST-000001
+2024/06/13-08:23:04.366 1840 Recovering log #3
+2024/06/13-08:23:04.368 1840 Reusing old log C:\Users\anura\OneDrive\Desktop\bot\tokens\session-name\Default\Session Storage/000003.log 
