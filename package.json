@@ -1,21 +1,19 @@
 {
-  "name": "bot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "bot.js",
-  "scripts": {
-    "postinstall": "puppeteer install && npx sharp install --with-libvips",
-    "build": "npm install"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "name": "functions",
+  "description": "Firebase Functions",
   "dependencies": {
-"express": "^4.17.1",
+    "express": "^4.17.1",
     "firebase-admin": "^9.8.0",
     "firebase-functions": "^3.14.1",
     "venom-bot": "^3.1.12",
     "puppeteer": "^10.0.0",
     "sharp": "^0.29.3"
+  },
+  "scripts": {
+    "postinstall": "npx puppeteer install && npx sharp install --with-libvips",
+    "build": "npm install"
+  },
+  "engines": {
+    "node": "14"
   }
 }
